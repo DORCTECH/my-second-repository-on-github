@@ -19,7 +19,7 @@ The objective of this dashboard is to transform raw survey data into meaningful 
 
 ## Dashboard Preview
 
-(Screenshot 2026-06-17 081308.png)
+https://github.com/DORCTECH/my-second-repository-on-github/blob/a91168c4988182f3626f37c4d800be5fce6c384c/Screenshot%202026-06-17%20081308.png
 
 ## Key Insights
 **🌍 Country Distribution**
